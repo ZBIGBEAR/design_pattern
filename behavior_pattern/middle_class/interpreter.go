@@ -1,0 +1,1 @@
+package middle_class
